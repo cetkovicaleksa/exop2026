@@ -1,6 +1,8 @@
+<!-- 
 ---
 source: https://github.com/ftn-ai-lab/ml-2026/issues/2
----
+--- 
+-->
 
 # Exoplanet Candidate Classification from Kepler Mission Light-Curve Data #
 

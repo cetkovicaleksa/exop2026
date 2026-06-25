@@ -1,8 +1,10 @@
+<!-- 
 ---
 title: Mašinsko učenje - Šablon
 source: https://docs.google.com/document/d/1nR-nzCrS-5o02UR1kvrWXj1kFtExqaj641COGYqocl8
 date: 20.Ⅵ 2026.
 ---
+-->
 
 **\<Title of the project\>**  
 **\<Author(s)\>**

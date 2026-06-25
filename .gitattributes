@@ -8,10 +8,17 @@
 *.gif      binary
 *.svg      binary
 
+*.otf      binary
+
 *.csv      text eol=crlf
 
-docs/**    linguist-documentation
-data/raw/**    linguist-vendored
+docs/**            linguist-documentation
+docs/dataset/**    linguist-vendored
+data/raw/**        linguist-vendored
+
+report/**          linguist-documentation
+report/fonts/**    linguist-vendored
+report/**/*.pdf    linguist-generated -diff
 
 .gitattributes export-ignore
 .gitignore     export-ignore
