@@ -20,6 +20,8 @@ report/**          linguist-documentation
 report/fonts/**    linguist-vendored
 report/**/*.pdf    linguist-generated -diff
 
+Makefile           linguist-detectable=false
+
 .gitattributes export-ignore
 .gitignore     export-ignore
 .gitkeep       export-ignore
