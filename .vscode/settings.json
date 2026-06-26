@@ -1,0 +1,25 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+
+    "[typst]": {
+        "editor.defaultFormatter": "myriad-dreamin.tinymist",
+        "editor.formatOnSave": true,
+        "editor.semanticHighlighting.enabled": true,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "on"
+        }
+    },
+
+    "tinymist.rootPath": "${workspaceFolder}/report",
+    // "tinymist.outputPath": "$dir/$name",
+    "tinymist.systemFonts": false,
+    "tinymist.fontPaths": ["$root/fonts"],
+    "tinymist.showExportFileIn": "systemDefault",
+    "tinymist.preview.refresh": "onType",
+    "tinymist.copyAndPaste": "enable",
+    "tinymist.onPaste": "$root/figures",
+}

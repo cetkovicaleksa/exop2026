@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        // "myriad-dreamin.tinymist",
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+    ],
+    "unwantedRecommendations": [
+        "mechatroner.rainbow-csv",
+        "tomoki1207.pdf",
+    ]
+}
